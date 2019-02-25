@@ -1,13 +1,12 @@
 # Parkinsons
 
-文件
-Accurate telemonitoring of Parkinson’s disease.pdf
 
-Exploiting Nonlinear Recurrence and Fractal Scaling Properties for.pdf
+Accurate telemonitoring of Parkinson’s disease.pdf、
 
-Extremely randomized trees.pdf
+Exploiting Nonlinear Recurrence and Fractal Scaling Properties for.pdf、
 
-为参考文献
+Extremely randomized trees.pdf为参考文献
+
 
 LinerarRegression.ipynb 为用 R语言进行多元线性回归结果
 
